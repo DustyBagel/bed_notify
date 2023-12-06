@@ -5,3 +5,4 @@ It also has an api to add support for other beds mods.
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
+If you have questions about the copyright of this mod, you can reach me at aldoessoftwaredevelopment@gmail.com.
